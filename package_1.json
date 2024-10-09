@@ -1,0 +1,9 @@
+"@jm18457/kafkajs-msk-iam-authentication-mechanism": "^2.0.3",
+    "@kafkajs/confluent-schema-registry": "^3.3.0",
+    "@meinestadt.de/glue-schema-registry": "^2.0.0",
+    "avsc": "^5.7.7",
+    "awilix": "^8.0.1",
+    "aws-sdk": "^2.1440.0",
+    "csv-parse": "^5.5.2",
+    "kafkajs": "^2.2.4",
+    "moment-timezone": "^0.5.44"
